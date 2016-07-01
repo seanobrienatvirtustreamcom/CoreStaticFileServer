@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C643FB5-8AB6-4BB0-BFB0-26FCCD84F2FF}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		manifest.yml = manifest.yml
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CoreStaticFileServer", "src\CoreStaticFileServer\CoreStaticFileServer.xproj", "{774680F8-31BD-4261-87BA-D6151A902658}"

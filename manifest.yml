@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: CoreStaticFileServer
+  host: CoreStaticFileServer
+  disk_quota: 2048M
+  buildpack: https://github.com/cloudfoundry-community/asp.net5-buildpack.git
